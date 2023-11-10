@@ -1,0 +1,30 @@
+.root{
+    margin: 0 auto;
+    width: 400px;
+}
+/*.ribbon {*/
+/*    background: red;*/
+/*    position: absolute;*/
+/*    color: white;*/
+/*    width: 35px;*/
+/*    z-index: 3;*/
+/*    text-align: center;*/
+/*    text-transform: uppercase;*/
+/*    padding: 3px;*/
+/*    top: 0px;*/
+/*    margin-left: 0px;*/
+/*}*/
+/*.ribbon ::before {*/
+/*                   position: absolute;*/
+/*                   z-index: -1;*/
+/*                   content: '';*/
+/*                   display: block;*/
+/*                   border: 5px solid #2980b9*/
+/*}*/
+/*.ribbon ::after {*/
+/*    position: absolute;*/
+/*    z-index: -1;*/
+/*    content: '';*/
+/*    display: block;*/
+/*    border: 5px solid #2980b9*/
+/*}*/
